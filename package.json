@@ -35,9 +35,6 @@
   "devDependencies": {
     "pm2": "^5.2.0",
     "prettier": "2.7.1"
-  },
-  "engines": {
-    "node": "14.x"
   }
 }
 
